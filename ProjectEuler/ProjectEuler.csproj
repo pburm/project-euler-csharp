@@ -51,6 +51,9 @@
     <Compile Include="Solutions\Solution0003.cs" />
     <Compile Include="Solutions\Solution0004.cs" />
     <Compile Include="Solutions\Solution0005.cs" />
+    <Compile Include="Solutions\Solution0006.cs" />
+    <Compile Include="Solutions\Solution0007.cs" />
+    <Compile Include="Solutions\Solution0008.cs" />
     <Compile Include="Utils\Numbers.cs" />
     <Compile Include="Utils\Strings.cs" />
   </ItemGroup>
